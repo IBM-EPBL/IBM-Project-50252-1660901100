@@ -77,7 +77,7 @@ FLAGS = None
 from cloudant.client import Cloudant
 
 # Authenticate using an IAM API key
-client = Cloudant.iam('ef7f4729-2486-45c5-a7fa-f4140373e2e6-bluemix','6GfFjs3engXLnSJB8Kp4fbs7HTKwrJpWJE7wNPGzZPVW', connect=True)
+client = Cloudant.iam('0073b6ff-54c3-447b-ba4d-42482d74e53b-bluemix','NxFCMOma827RF1rlAHjzrN1acQXhMXzoUqPySo5G4Y9t', connect=True)
 
 
 # Create a database using an initialized client
